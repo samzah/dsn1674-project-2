@@ -66,18 +66,56 @@ h1 {
 
 .dragon {
 	background-color: #e4c22a;
-	display: inline-block;
 	float: left;
 	text-align: center;
 	font-size: 11px;
+	width: 100%;
 }
 
 .dragon img {
 	width: 40%;
 	padding-left: 0%;
+}
 
+.goat {
+	background-color: #222;
+	float: left;
+	text-align: center;
+	font-size: 11px;
+	width: 100%;
+	color: #fff;
+}
 
+.goat img {
+	width: 40%;
+	padding-left: 0%;
+}
 
+.rooster {
+	background-color: #bc0017;
+	float: left;
+	text-align: center;
+	font-size: 11px;
+	width: 100%;
+	color: #fff;
+}
+
+.rooster img {
+	width: 40%;
+	padding-left: 0%;
+}
+
+.ox {
+	background-color: #e4c22a;
+	float: left;
+	text-align: center;
+	font-size: 11px;
+	width: 100%;
+}
+
+.ox img {
+	width: 40%;
+	padding-left: 0%;
 }
 
 
