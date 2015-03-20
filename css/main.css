@@ -108,6 +108,10 @@ h1 {
 	padding-left: 0%;
 }
 
+.dragon p {
+	font-style: italic;
+}
+
 .goat {
 	background-color: #222;
 	float: left;
@@ -120,6 +124,10 @@ h1 {
 .goat img {
 	width: 40%;
 	padding-left: 0%;
+}
+
+.goat p {
+	font-style: italic;
 }
 
 .rooster {
@@ -136,18 +144,25 @@ h1 {
 	padding-left: 0%;
 }
 
+.rooster p {
+	font-style: italic;
+}
+
 .ox {
 	background-color: #e4c22a;
 	float: left;
 	text-align: center;
 	font-size: 11px;
 	width: 100%;
-	font-style: italic;
 }
 
 .ox img {
 	width: 40%;
 	padding-left: 0%;
+}
+
+.ox p {
+	font-style: italic;
 }
 
 footer {
