@@ -9,16 +9,6 @@ body {
 	margin: 0;
 }
 
-header {
-	background-color: #e7001d ;
-	color: #fff;
-	text-align: center;
-	font-size: 0.5em;
-}
-
-header p{
-	margin:0;
-}
 
 .banner img{
 	position: relative;
@@ -38,23 +28,40 @@ header p{
 	bottom: 0.3em;
 	padding: 5em;
 	color: #fff;
-	text-shadow: 1px 1px 5px black
+	text-shadow: 1px 1px 5px black;
 }
 
-.medallion {
-	width: 15%;
-}
-
-.medallion img {
+header img {
+	width: 65px;
 	position: absolute;
+	left: calc(50% - 32.5px);
+}
+header h1 {
+	margin: 0;
+  position: relative;
+  text-shadow: 1px 1px 5px black;
+  font-size: 2rem;
+}
+header p {
+	font-size: 10px;
+  position: relative;
+  top: 3px;
+  margin: 0;
+  text-shadow: 1px 1px 5px black;
 }
 
-.medallion h1 {
-	position: relative;
-	font-size: 1em;
+header {
+	background-color: #e7001d ;
+	color: #fff;
+	text-align: center;
+	font-size: 0.5em;
+	padding-bottom: 3em;
+	padding-top: 2em;
 }
 
-
+header p{
+	margin:0;
+}
 
 nav li {
 background-color: #222;
