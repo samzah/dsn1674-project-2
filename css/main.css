@@ -13,6 +13,27 @@ header {
 	background-color: #e7001d ;
 	color: #fff;
 	text-align: center;
-
+	font-size: 0.5em;
 
 }
+banner {
+	position: relative;
+	width: 100%;
+}
+
+.medallion {
+	width: 15%;
+}
+
+nav li {
+background-color: #222;
+color: #fff;
+text-decoration: none;
+list-style-type: none;
+}
+
+a {
+	color: #fff;
+}
+
+
