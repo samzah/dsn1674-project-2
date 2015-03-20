@@ -30,10 +30,23 @@ background-color: #222;
 color: #fff;
 text-decoration: none;
 list-style-type: none;
+display: inline;
+float: left;
+width: 50%;
+margin: 0;
 }
 
+nav ol {
+	overlfow: hidden;
+	margin: 0;
+	padding: 0;
+
+}
 a {
 	color: #fff;
 }
 
+h1 {
+	margin: 0;
+}
 
