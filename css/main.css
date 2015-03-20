@@ -64,6 +64,20 @@ h1 {
 	width: 100%;
 }
 
+.dragon {
+	background-color: #e4c22a;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	font-size: 11px;
+}
 
+.dragon img {
+	width: 40%;
+	padding-left: 0%;
+
+
+
+}
 
 
